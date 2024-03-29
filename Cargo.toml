@@ -7,7 +7,6 @@ description = "A project maker for Rohanasan: An extremely fast and easy backend
 readme = "README.md"
 categories = ["web-programming", "template-engine", "compilers", "config", "development-tools"]
 publish = true
-license = "GPL"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
